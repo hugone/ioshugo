@@ -11,5 +11,5 @@
  */
 
 function saludar(){
-    echo "Saludos!";
+    print 'hola mundo';
 }
