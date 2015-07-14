@@ -10,3 +10,6 @@
  * @version 0.01
  */
 
+function saludar(){
+    echo "Saludos!";
+}
